@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Palisade-services/audit-service/audit-service.iml" filepath="$PROJECT_DIR$/Palisade-services/audit-service/audit-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palisade-integration-tests/audit-service-integration/audit-service-integration.iml" filepath="$PROJECT_DIR$/Palisade-integration-tests/audit-service-integration/audit-service-integration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palisade-clients/clients.iml" filepath="$PROJECT_DIR$/Palisade-clients/clients.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palisade-clients/clients-cat/clients-cat.iml" filepath="$PROJECT_DIR$/Palisade-clients/clients-cat/clients-cat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palisade-clients/clients-common/clients-common.iml" filepath="$PROJECT_DIR$/Palisade-clients/clients-common/clients-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palisade-clients/clients-mapreduce/clients-mapreduce.iml" filepath="$PROJECT_DIR$/Palisade-clients/clients-mapreduce/clients-mapreduce.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palisade-clients/clients-simple/clients-simple.iml" filepath="$PROJECT_DIR$/Palisade-clients/clients-simple/clients-simple.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palisade-common/common.iml" filepath="$PROJECT_DIR$/Palisade-common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palisade-services/data-service/data-service.iml" filepath="$PROJECT_DIR$/Palisade-services/data-service/data-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palisade-integration-tests/data-service-integration/data-service-integration.iml" filepath="$PROJECT_DIR$/Palisade-integration-tests/data-service-integration/data-service-integration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palisade-examples/deployment/deployment.iml" filepath="$PROJECT_DIR$/Palisade-examples/deployment/deployment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palisade-services/discovery-service/discovery-service.iml" filepath="$PROJECT_DIR$/Palisade-services/discovery-service/discovery-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palisade-integration-tests/discovery-service-integration/discovery-service-integration.iml" filepath="$PROJECT_DIR$/Palisade-integration-tests/discovery-service-integration/discovery-service-integration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palisade-examples/example.iml" filepath="$PROJECT_DIR$/Palisade-examples/example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palisade-examples/example-library/example-library.iml" filepath="$PROJECT_DIR$/Palisade-examples/example-library/example-library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palisade-examples/example-model/example-model.iml" filepath="$PROJECT_DIR$/Palisade-examples/example-model/example-model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palisade-readers/hadoop-reader/hadoop-reader.iml" filepath="$PROJECT_DIR$/Palisade-readers/hadoop-reader/hadoop-reader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palisade-readers/hadoop-resource/hadoop-resource.iml" filepath="$PROJECT_DIR$/Palisade-readers/hadoop-resource/hadoop-resource.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palisade-examples/hr-data-generator/hr-data-generator.iml" filepath="$PROJECT_DIR$/Palisade-examples/hr-data-generator/hr-data-generator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palisade-integration-tests/integration-tests.iml" filepath="$PROJECT_DIR$/Palisade-integration-tests/integration-tests.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palisade-services/palisade-service/palisade-service.iml" filepath="$PROJECT_DIR$/Palisade-services/palisade-service/palisade-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palisade-integration-tests/palisade-service-integration/palisade-service-integration.iml" filepath="$PROJECT_DIR$/Palisade-integration-tests/palisade-service-integration/palisade-service-integration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palisade-services/policy-service/policy-service.iml" filepath="$PROJECT_DIR$/Palisade-services/policy-service/policy-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palisade-integration-tests/policy-service-integration/policy-service-integration.iml" filepath="$PROJECT_DIR$/Palisade-integration-tests/policy-service-integration/policy-service-integration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palisade-readers/readers.iml" filepath="$PROJECT_DIR$/Palisade-readers/readers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palisade-readers/readers-common/readers-common.iml" filepath="$PROJECT_DIR$/Palisade-readers/readers-common/readers-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palisade-services/resource-service/resource-service.iml" filepath="$PROJECT_DIR$/Palisade-services/resource-service/resource-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palisade-integration-tests/resource-service-integration/resource-service-integration.iml" filepath="$PROJECT_DIR$/Palisade-integration-tests/resource-service-integration/resource-service-integration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palisade-services/service.iml" filepath="$PROJECT_DIR$/Palisade-services/service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palisade-services/services-manager/services-manager.iml" filepath="$PROJECT_DIR$/Palisade-services/services-manager/services-manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palisade-readers/shade-hadoop-client/shade-hadoop-client.iml" filepath="$PROJECT_DIR$/Palisade-readers/shade-hadoop-client/shade-hadoop-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palisade-services/user-service/user-service.iml" filepath="$PROJECT_DIR$/Palisade-services/user-service/user-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palisade-integration-tests/user-service-integration/user-service-integration.iml" filepath="$PROJECT_DIR$/Palisade-integration-tests/user-service-integration/user-service-integration.iml" />
+    </modules>
+  </component>
+</project>

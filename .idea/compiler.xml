@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="audit-service-integration" />
+        <module name="data-service" />
+        <module name="discovery-service" />
+        <module name="user-service" />
+        <module name="hadoop-reader" />
+        <module name="discovery-service-integration" />
+        <module name="clients-simple" />
+        <module name="clients-mapreduce" />
+        <module name="policy-service-integration" />
+        <module name="hr-data-generator" />
+        <module name="common" />
+        <module name="data-service-integration" />
+        <module name="policy-service" />
+        <module name="palisade-service" />
+        <module name="audit-service" />
+        <module name="resource-service" />
+        <module name="resource-service-integration" />
+        <module name="example-library" />
+        <module name="readers-common" />
+        <module name="palisade-service-integration" />
+        <module name="hadoop-resource" />
+        <module name="user-service-integration" />
+        <module name="shade-hadoop-client" />
+        <module name="clients-cat" />
+        <module name="clients-common" />
+        <module name="services-manager" />
+        <module name="deployment" />
+        <module name="example-model" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="audit-service" target="11" />
+      <module name="audit-service-integration" target="11" />
+      <module name="clients" target="11" />
+      <module name="clients-cat" target="11" />
+      <module name="clients-common" target="11" />
+      <module name="clients-mapreduce" target="11" />
+      <module name="clients-simple" target="11" />
+      <module name="common" target="11" />
+      <module name="data-service" target="11" />
+      <module name="data-service (1)" target="1.5" />
+      <module name="data-service (2)" target="11" />
+      <module name="data-service-integration" target="11" />
+      <module name="deployment" target="11" />
+      <module name="discovery-service" target="11" />
+      <module name="discovery-service-integration" target="11" />
+      <module name="example" target="11" />
+      <module name="example-library" target="11" />
+      <module name="example-model" target="11" />
+      <module name="hadoop-reader" target="11" />
+      <module name="hadoop-resource" target="11" />
+      <module name="hr-data-generator" target="11" />
+      <module name="integration-tests" target="11" />
+      <module name="palisade-service" target="11" />
+      <module name="palisade-service-integration" target="11" />
+      <module name="policy-service" target="11" />
+      <module name="policy-service-integration" target="11" />
+      <module name="readers" target="11" />
+      <module name="readers-common" target="11" />
+      <module name="resource-service" target="11" />
+      <module name="resource-service-integration" target="11" />
+      <module name="service" target="11" />
+      <module name="services-manager" target="11" />
+      <module name="shade-hadoop-client" target="11" />
+      <module name="user-service" target="11" />
+      <module name="user-service-integration" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="audit-service" options="-parameters" />
+      <module name="audit-service-integration" options="-parameters" />
+      <module name="common" options="-Xlint:deprecation" />
+      <module name="data-service" options="-parameters" />
+      <module name="data-service-integration" options="-parameters" />
+      <module name="deployment" options="-parameters" />
+      <module name="discovery-service" options="-parameters" />
+      <module name="discovery-service-integration" options="-parameters" />
+      <module name="example-library" options="-parameters" />
+      <module name="example-model" options="-parameters" />
+      <module name="hr-data-generator" options="-parameters" />
+      <module name="palisade-service" options="-parameters" />
+      <module name="palisade-service-integration" options="-parameters" />
+      <module name="policy-service" options="-parameters" />
+      <module name="policy-service-integration" options="-parameters" />
+      <module name="resource-service" options="-parameters" />
+      <module name="resource-service-integration" options="-parameters" />
+      <module name="services-manager" options="-parameters" />
+      <module name="user-service" options="-parameters" />
+      <module name="user-service-integration" options="-parameters" />
+    </option>
+  </component>
+</project>

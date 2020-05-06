@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/Palisade-clients" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Palisade-common" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Palisade-examples" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Palisade-integration-tests" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Palisade-readers" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Palisade-services" vcs="Git" />
+  </component>
+</project>

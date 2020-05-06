@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/Palisade-clients/clients-cat/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Palisade-clients/clients-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Palisade-clients/clients-mapreduce/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Palisade-clients/clients-simple/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Palisade-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Palisade-examples/example-library/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Palisade-examples/example-model/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Palisade-examples/hr-data-generator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Palisade-integration-tests/policy-service-integration/src/test/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Palisade-services/audit-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Palisade-services/data-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Palisade-services/discovery-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Palisade-services/palisade-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Palisade-services/palisade-service/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Palisade-services/policy-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Palisade-services/resource-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Palisade-services/services-manager/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Palisade-services/user-service/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/Palisade-services/user-service/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://maven.apache.org/POM/4.0.0"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>uk.gov.gchq.palisade</groupId>
+    <artifactId>monolith</artifactId>
+    <version>0.4.0-${revision}</version>
+    <name>palisade</name>
+    <packaging>pom</packaging>
+
+    <properties>
+        <java.version>11</java.version>
+        <encoding>UTF-8</encoding>
+        <!-- Sane default when no revision property is passed in from the command line -->
+        <revision>SNAPSHOT</revision>
+    </properties>
+
+    <modules>
+        <module>Palisade-common</module>
+        <module>Palisade-readers</module>
+        <module>Palisade-services</module>
+        <module>Palisade-clients</module>
+        <module>Palisade-examples</module>
+        <module>Palisade-integration-tests</module>
+    </modules>
+
+</project>
