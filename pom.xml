@@ -25,4 +25,15 @@
         <module>Palisade-integration-tests</module>
     </modules>
 
+    <profiles>
+        <profile>
+            <id>quick</id>
+            <properties>
+                <skipTests>true</skipTests>
+                <checkstyle.skip>true</checkstyle.skip>
+                <dockerfile.skip>true</dockerfile.skip>
+            </properties>
+        </profile>
+    </profiles>
+
 </project>
