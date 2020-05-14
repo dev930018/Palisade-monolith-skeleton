@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: event-logging:event-logging:v4.0.5_schema-v3.2.4">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/event-logging/event-logging/v4.0.5_schema-v3.2.4/event-logging-v4.0.5_schema-v3.2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/event-logging/event-logging/v4.0.5_schema-v3.2.4/event-logging-v4.0.5_schema-v3.2.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/event-logging/event-logging/v4.0.5_schema-v3.2.4/event-logging-v4.0.5_schema-v3.2.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

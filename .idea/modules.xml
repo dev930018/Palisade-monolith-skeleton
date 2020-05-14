@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/Palisade-clients/clients-mapreduce/clients-mapreduce.iml" filepath="$PROJECT_DIR$/Palisade-clients/clients-mapreduce/clients-mapreduce.iml" />
       <module fileurl="file://$PROJECT_DIR$/Palisade-clients/clients-simple/clients-simple.iml" filepath="$PROJECT_DIR$/Palisade-clients/clients-simple/clients-simple.iml" />
       <module fileurl="file://$PROJECT_DIR$/Palisade-common/common.iml" filepath="$PROJECT_DIR$/Palisade-common/common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palisade-services/create-kafka-queues/create-kafka-queues.iml" filepath="$PROJECT_DIR$/Palisade-services/create-kafka-queues/create-kafka-queues.iml" />
       <module fileurl="file://$PROJECT_DIR$/Palisade-services/data-service/data-service.iml" filepath="$PROJECT_DIR$/Palisade-services/data-service/data-service.iml" />
       <module fileurl="file://$PROJECT_DIR$/Palisade-integration-tests/data-service-integration/data-service-integration.iml" filepath="$PROJECT_DIR$/Palisade-integration-tests/data-service-integration/data-service-integration.iml" />
       <module fileurl="file://$PROJECT_DIR$/Palisade-examples/deployment/deployment.iml" filepath="$PROJECT_DIR$/Palisade-examples/deployment/deployment.iml" />

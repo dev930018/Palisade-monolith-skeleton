@@ -9,6 +9,7 @@
         <option value="$PROJECT_DIR$/Palisade-integration-tests/pom.xml" />
         <option value="$PROJECT_DIR$/Palisade-readers/pom.xml" />
         <option value="$PROJECT_DIR$/Palisade-services/pom.xml" />
+        <option value="$PROJECT_DIR$/Palisade-services/data-service/pom.xml" />
       </list>
     </option>
   </component>

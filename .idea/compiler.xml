@@ -15,11 +15,12 @@
         <module name="clients-simple" />
         <module name="clients-mapreduce" />
         <module name="policy-service-integration" />
-        <module name="hr-data-generator" />
+        <module name="create-kafka-queues" />
         <module name="common" />
         <module name="data-service-integration" />
         <module name="policy-service" />
         <module name="palisade-service" />
+        <module name="hr-data-generator" />
         <module name="audit-service" />
         <module name="resource-service" />
         <module name="resource-service-integration" />
@@ -45,9 +46,9 @@
       <module name="clients-mapreduce" target="11" />
       <module name="clients-simple" target="11" />
       <module name="common" target="11" />
+      <module name="create-kafka-queues" target="11" />
       <module name="data-service" target="11" />
       <module name="data-service (1)" target="1.5" />
-      <module name="data-service (2)" target="11" />
       <module name="data-service-integration" target="11" />
       <module name="deployment" target="11" />
       <module name="discovery-service" target="11" />
@@ -78,7 +79,12 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="audit-service" options="-parameters" />
       <module name="audit-service-integration" options="-parameters" />
+      <module name="clients-cat" options="-parameters" />
+      <module name="clients-common" options="-parameters" />
+      <module name="clients-mapreduce" options="-parameters" />
+      <module name="clients-simple" options="-parameters" />
       <module name="common" options="-Xlint:deprecation" />
+      <module name="create-kafka-queues" options="-parameters" />
       <module name="data-service" options="-parameters" />
       <module name="data-service-integration" options="-parameters" />
       <module name="deployment" options="-parameters" />
